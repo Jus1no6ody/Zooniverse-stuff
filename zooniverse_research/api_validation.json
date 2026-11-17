@@ -1,0 +1,45 @@
+{
+  "checked_at_utc": "2026-11-17T04:29:30.586020+00:00",
+  "eras_source": "https://eras.zooniverse.org/classifications?period=year",
+  "eras_total_classifications": 1017306689,
+  "yearly_sum_matches_total": true,
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "panoptes_source": "https://www.zooniverse.org/api/users?page_size=1",
+  "panoptes_metadata_user_count": 3006898,
+  "panoptes_page2_metadata_user_count": 3006898,
+  "tested_pages": [
+    1,
+    2
+  ],
+  "disjoint_ids": true,
+  "created_at_present_on_both_pages": true,
+  "historical_registration_coverage_verified": false,
+  "limitations": [
+    "ERAS classification counts measure activity, not unique users.",
+    "2026 is a partial year.",
+    "Two single-account pages validate basic paging only; user directory was not fully downloaded.",
+    "Panoptes created_at semantics for legacy migrated accounts require verification before historical registration analysis.",
+    "API metadata counts user records, not necessarily unique people or all historical registrations."
+  ]
+}

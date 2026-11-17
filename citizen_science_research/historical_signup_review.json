@@ -1,0 +1,1048 @@
+{
+  "dataset_doi": "https://doi.org/10.26037/yareta:lklrzxq3njdhhh4hdzt6nrwdz4",
+  "archive_sha256": "5eed4120aad8d93de7ab6e5e34e9d32ad704a3cd28ab4715ed23e5ef66aad118",
+  "metric": "Published cumulative signup series; not all registered accounts or annual active users",
+  "interpretation": "The paper excludes zero-contribution accounts. Foldit explicitly counts accounts that completed at least one task.",
+  "platforms": {
+    "Foldit": {
+      "first_month": "2007-11",
+      "last_row_month": "2019-10",
+      "last_month_with_a_change": "2017-12",
+      "tail_warning": "Series stays constant after December 2017 through October 2019. Those repetitions are not evidence of zero growth; excluded from year-end analysis pending clarification.",
+      "year_end_snapshots_through_last_change": [
+        {
+          "month": "2007-12",
+          "count": 166
+        },
+        {
+          "month": "2008-12",
+          "count": 8898
+        },
+        {
+          "month": "2009-12",
+          "count": 12909
+        },
+        {
+          "month": "2010-12",
+          "count": 28059
+        },
+        {
+          "month": "2011-12",
+          "count": 58930
+        },
+        {
+          "month": "2012-12",
+          "count": 81451
+        },
+        {
+          "month": "2013-12",
+          "count": 93504
+        },
+        {
+          "month": "2014-12",
+          "count": 101157
+        },
+        {
+          "month": "2015-12",
+          "count": 109595
+        },
+        {
+          "month": "2016-12",
+          "count": 113722
+        },
+        {
+          "month": "2017-12",
+          "count": 119183
+        }
+      ],
+      "published_monthly_values": [
+        {
+          "month": "2007-11",
+          "count": 86
+        },
+        {
+          "month": "2007-12",
+          "count": 166
+        },
+        {
+          "month": "2008-01",
+          "count": 202
+        },
+        {
+          "month": "2008-02",
+          "count": 222
+        },
+        {
+          "month": "2008-03",
+          "count": 273
+        },
+        {
+          "month": "2008-04",
+          "count": 382
+        },
+        {
+          "month": "2008-05",
+          "count": 6728
+        },
+        {
+          "month": "2008-06",
+          "count": 7178
+        },
+        {
+          "month": "2008-07",
+          "count": 7423
+        },
+        {
+          "month": "2008-08",
+          "count": 7623
+        },
+        {
+          "month": "2008-09",
+          "count": 7809
+        },
+        {
+          "month": "2008-10",
+          "count": 8051
+        },
+        {
+          "month": "2008-11",
+          "count": 8597
+        },
+        {
+          "month": "2008-12",
+          "count": 8898
+        },
+        {
+          "month": "2009-01",
+          "count": 9116
+        },
+        {
+          "month": "2009-02",
+          "count": 9277
+        },
+        {
+          "month": "2009-03",
+          "count": 9534
+        },
+        {
+          "month": "2009-04",
+          "count": 9810
+        },
+        {
+          "month": "2009-05",
+          "count": 10269
+        },
+        {
+          "month": "2009-06",
+          "count": 10390
+        },
+        {
+          "month": "2009-07",
+          "count": 10529
+        },
+        {
+          "month": "2009-08",
+          "count": 10807
+        },
+        {
+          "month": "2009-09",
+          "count": 11478
+        },
+        {
+          "month": "2009-10",
+          "count": 12059
+        },
+        {
+          "month": "2009-11",
+          "count": 12566
+        },
+        {
+          "month": "2009-12",
+          "count": 12909
+        },
+        {
+          "month": "2010-01",
+          "count": 13308
+        },
+        {
+          "month": "2010-02",
+          "count": 13668
+        },
+        {
+          "month": "2010-03",
+          "count": 13930
+        },
+        {
+          "month": "2010-04",
+          "count": 14299
+        },
+        {
+          "month": "2010-05",
+          "count": 15162
+        },
+        {
+          "month": "2010-06",
+          "count": 15587
+        },
+        {
+          "month": "2010-07",
+          "count": 15828
+        },
+        {
+          "month": "2010-08",
+          "count": 20389
+        },
+        {
+          "month": "2010-09",
+          "count": 23965
+        },
+        {
+          "month": "2010-10",
+          "count": 25514
+        },
+        {
+          "month": "2010-11",
+          "count": 26975
+        },
+        {
+          "month": "2010-12",
+          "count": 28059
+        },
+        {
+          "month": "2011-01",
+          "count": 29175
+        },
+        {
+          "month": "2011-02",
+          "count": 30747
+        },
+        {
+          "month": "2011-03",
+          "count": 31804
+        },
+        {
+          "month": "2011-04",
+          "count": 32809
+        },
+        {
+          "month": "2011-05",
+          "count": 33670
+        },
+        {
+          "month": "2011-06",
+          "count": 34543
+        },
+        {
+          "month": "2011-07",
+          "count": 35145
+        },
+        {
+          "month": "2011-08",
+          "count": 35730
+        },
+        {
+          "month": "2011-09",
+          "count": 50296
+        },
+        {
+          "month": "2011-10",
+          "count": 54813
+        },
+        {
+          "month": "2011-11",
+          "count": 57343
+        },
+        {
+          "month": "2011-12",
+          "count": 58930
+        },
+        {
+          "month": "2012-01",
+          "count": 62893
+        },
+        {
+          "month": "2012-02",
+          "count": 65657
+        },
+        {
+          "month": "2012-03",
+          "count": 67946
+        },
+        {
+          "month": "2012-04",
+          "count": 69839
+        },
+        {
+          "month": "2012-05",
+          "count": 71098
+        },
+        {
+          "month": "2012-06",
+          "count": 71999
+        },
+        {
+          "month": "2012-07",
+          "count": 72743
+        },
+        {
+          "month": "2012-08",
+          "count": 73553
+        },
+        {
+          "month": "2012-09",
+          "count": 75782
+        },
+        {
+          "month": "2012-10",
+          "count": 77225
+        },
+        {
+          "month": "2012-11",
+          "count": 80343
+        },
+        {
+          "month": "2012-12",
+          "count": 81451
+        },
+        {
+          "month": "2013-01",
+          "count": 82594
+        },
+        {
+          "month": "2013-02",
+          "count": 83672
+        },
+        {
+          "month": "2013-03",
+          "count": 85259
+        },
+        {
+          "month": "2013-04",
+          "count": 86186
+        },
+        {
+          "month": "2013-05",
+          "count": 87119
+        },
+        {
+          "month": "2013-06",
+          "count": 88127
+        },
+        {
+          "month": "2013-07",
+          "count": 88823
+        },
+        {
+          "month": "2013-08",
+          "count": 89213
+        },
+        {
+          "month": "2013-09",
+          "count": 90745
+        },
+        {
+          "month": "2013-10",
+          "count": 92341
+        },
+        {
+          "month": "2013-11",
+          "count": 93030
+        },
+        {
+          "month": "2013-12",
+          "count": 93504
+        },
+        {
+          "month": "2014-01",
+          "count": 94167
+        },
+        {
+          "month": "2014-02",
+          "count": 94674
+        },
+        {
+          "month": "2014-03",
+          "count": 95124
+        },
+        {
+          "month": "2014-04",
+          "count": 95643
+        },
+        {
+          "month": "2014-05",
+          "count": 96213
+        },
+        {
+          "month": "2014-06",
+          "count": 96672
+        },
+        {
+          "month": "2014-07",
+          "count": 97123
+        },
+        {
+          "month": "2014-08",
+          "count": 98112
+        },
+        {
+          "month": "2014-09",
+          "count": 98377
+        },
+        {
+          "month": "2014-10",
+          "count": 99610
+        },
+        {
+          "month": "2014-11",
+          "count": 100635
+        },
+        {
+          "month": "2014-12",
+          "count": 101157
+        },
+        {
+          "month": "2015-01",
+          "count": 101762
+        },
+        {
+          "month": "2015-02",
+          "count": 102356
+        },
+        {
+          "month": "2015-03",
+          "count": 102772
+        },
+        {
+          "month": "2015-04",
+          "count": 103190
+        },
+        {
+          "month": "2015-05",
+          "count": 104215
+        },
+        {
+          "month": "2015-06",
+          "count": 104865
+        },
+        {
+          "month": "2015-07",
+          "count": 105664
+        },
+        {
+          "month": "2015-08",
+          "count": 106235
+        },
+        {
+          "month": "2015-09",
+          "count": 107335
+        },
+        {
+          "month": "2015-10",
+          "count": 108253
+        },
+        {
+          "month": "2015-11",
+          "count": 108869
+        },
+        {
+          "month": "2015-12",
+          "count": 109595
+        },
+        {
+          "month": "2016-01",
+          "count": 110029
+        },
+        {
+          "month": "2016-02",
+          "count": 110589
+        },
+        {
+          "month": "2016-03",
+          "count": 111000
+        },
+        {
+          "month": "2016-04",
+          "count": 111591
+        },
+        {
+          "month": "2016-05",
+          "count": 111773
+        },
+        {
+          "month": "2016-06",
+          "count": 111852
+        },
+        {
+          "month": "2016-07",
+          "count": 111944
+        },
+        {
+          "month": "2016-08",
+          "count": 112049
+        },
+        {
+          "month": "2016-09",
+          "count": 113039
+        },
+        {
+          "month": "2016-10",
+          "count": 113602
+        },
+        {
+          "month": "2016-11",
+          "count": 113657
+        },
+        {
+          "month": "2016-12",
+          "count": 113722
+        },
+        {
+          "month": "2017-01",
+          "count": 113867
+        },
+        {
+          "month": "2017-02",
+          "count": 114338
+        },
+        {
+          "month": "2017-03",
+          "count": 114582
+        },
+        {
+          "month": "2017-04",
+          "count": 114620
+        },
+        {
+          "month": "2017-05",
+          "count": 114654
+        },
+        {
+          "month": "2017-06",
+          "count": 114938
+        },
+        {
+          "month": "2017-07",
+          "count": 115298
+        },
+        {
+          "month": "2017-08",
+          "count": 115756
+        },
+        {
+          "month": "2017-09",
+          "count": 117153
+        },
+        {
+          "month": "2017-10",
+          "count": 118337
+        },
+        {
+          "month": "2017-11",
+          "count": 118839
+        },
+        {
+          "month": "2017-12",
+          "count": 119183
+        },
+        {
+          "month": "2018-01",
+          "count": 119183
+        },
+        {
+          "month": "2018-02",
+          "count": 119183
+        },
+        {
+          "month": "2018-03",
+          "count": 119183
+        },
+        {
+          "month": "2018-04",
+          "count": 119183
+        },
+        {
+          "month": "2018-05",
+          "count": 119183
+        },
+        {
+          "month": "2018-06",
+          "count": 119183
+        },
+        {
+          "month": "2018-07",
+          "count": 119183
+        },
+        {
+          "month": "2018-08",
+          "count": 119183
+        },
+        {
+          "month": "2018-09",
+          "count": 119183
+        },
+        {
+          "month": "2018-10",
+          "count": 119183
+        },
+        {
+          "month": "2018-11",
+          "count": 119183
+        },
+        {
+          "month": "2018-12",
+          "count": 119183
+        },
+        {
+          "month": "2019-01",
+          "count": 119183
+        },
+        {
+          "month": "2019-02",
+          "count": 119183
+        },
+        {
+          "month": "2019-03",
+          "count": 119183
+        },
+        {
+          "month": "2019-04",
+          "count": 119183
+        },
+        {
+          "month": "2019-05",
+          "count": 119183
+        },
+        {
+          "month": "2019-06",
+          "count": 119183
+        },
+        {
+          "month": "2019-07",
+          "count": 119183
+        },
+        {
+          "month": "2019-08",
+          "count": 119183
+        },
+        {
+          "month": "2019-09",
+          "count": 119183
+        },
+        {
+          "month": "2019-10",
+          "count": 119183
+        }
+      ]
+    },
+    "EyeWire": {
+      "first_month": "2012-01",
+      "last_row_month": "2019-10",
+      "last_month_with_a_change": "2017-12",
+      "tail_warning": "Series stays constant after December 2017 through October 2019. Those repetitions are not evidence of zero growth; excluded from year-end analysis pending clarification.",
+      "year_end_snapshots_through_last_change": [
+        {
+          "month": "2012-12",
+          "count": 22651
+        },
+        {
+          "month": "2013-12",
+          "count": 102020
+        },
+        {
+          "month": "2014-12",
+          "count": 170228
+        },
+        {
+          "month": "2015-12",
+          "count": 210970
+        },
+        {
+          "month": "2016-12",
+          "count": 240741
+        },
+        {
+          "month": "2017-12",
+          "count": 266635
+        }
+      ],
+      "published_monthly_values": [
+        {
+          "month": "2012-01",
+          "count": 24
+        },
+        {
+          "month": "2012-02",
+          "count": 197
+        },
+        {
+          "month": "2012-03",
+          "count": 1865
+        },
+        {
+          "month": "2012-04",
+          "count": 2673
+        },
+        {
+          "month": "2012-05",
+          "count": 3090
+        },
+        {
+          "month": "2012-06",
+          "count": 4618
+        },
+        {
+          "month": "2012-07",
+          "count": 6414
+        },
+        {
+          "month": "2012-08",
+          "count": 7160
+        },
+        {
+          "month": "2012-09",
+          "count": 7604
+        },
+        {
+          "month": "2012-10",
+          "count": 8312
+        },
+        {
+          "month": "2012-11",
+          "count": 8743
+        },
+        {
+          "month": "2012-12",
+          "count": 22651
+        },
+        {
+          "month": "2013-01",
+          "count": 24361
+        },
+        {
+          "month": "2013-02",
+          "count": 38905
+        },
+        {
+          "month": "2013-03",
+          "count": 58402
+        },
+        {
+          "month": "2013-04",
+          "count": 64301
+        },
+        {
+          "month": "2013-05",
+          "count": 68187
+        },
+        {
+          "month": "2013-06",
+          "count": 70124
+        },
+        {
+          "month": "2013-07",
+          "count": 74125
+        },
+        {
+          "month": "2013-08",
+          "count": 80302
+        },
+        {
+          "month": "2013-09",
+          "count": 83628
+        },
+        {
+          "month": "2013-10",
+          "count": 87698
+        },
+        {
+          "month": "2013-11",
+          "count": 98435
+        },
+        {
+          "month": "2013-12",
+          "count": 102020
+        },
+        {
+          "month": "2014-01",
+          "count": 111178
+        },
+        {
+          "month": "2014-02",
+          "count": 116046
+        },
+        {
+          "month": "2014-03",
+          "count": 119595
+        },
+        {
+          "month": "2014-04",
+          "count": 123430
+        },
+        {
+          "month": "2014-05",
+          "count": 134879
+        },
+        {
+          "month": "2014-06",
+          "count": 138570
+        },
+        {
+          "month": "2014-07",
+          "count": 141453
+        },
+        {
+          "month": "2014-08",
+          "count": 147439
+        },
+        {
+          "month": "2014-09",
+          "count": 151619
+        },
+        {
+          "month": "2014-10",
+          "count": 161120
+        },
+        {
+          "month": "2014-11",
+          "count": 166611
+        },
+        {
+          "month": "2014-12",
+          "count": 170228
+        },
+        {
+          "month": "2015-01",
+          "count": 179071
+        },
+        {
+          "month": "2015-02",
+          "count": 182562
+        },
+        {
+          "month": "2015-03",
+          "count": 185367
+        },
+        {
+          "month": "2015-04",
+          "count": 188772
+        },
+        {
+          "month": "2015-05",
+          "count": 193080
+        },
+        {
+          "month": "2015-06",
+          "count": 195770
+        },
+        {
+          "month": "2015-07",
+          "count": 197975
+        },
+        {
+          "month": "2015-08",
+          "count": 200349
+        },
+        {
+          "month": "2015-09",
+          "count": 203327
+        },
+        {
+          "month": "2015-10",
+          "count": 205628
+        },
+        {
+          "month": "2015-11",
+          "count": 207779
+        },
+        {
+          "month": "2015-12",
+          "count": 210970
+        },
+        {
+          "month": "2016-01",
+          "count": 213390
+        },
+        {
+          "month": "2016-02",
+          "count": 215961
+        },
+        {
+          "month": "2016-03",
+          "count": 218696
+        },
+        {
+          "month": "2016-04",
+          "count": 221501
+        },
+        {
+          "month": "2016-05",
+          "count": 223836
+        },
+        {
+          "month": "2016-06",
+          "count": 229177
+        },
+        {
+          "month": "2016-07",
+          "count": 231029
+        },
+        {
+          "month": "2016-08",
+          "count": 233182
+        },
+        {
+          "month": "2016-09",
+          "count": 235457
+        },
+        {
+          "month": "2016-10",
+          "count": 237263
+        },
+        {
+          "month": "2016-11",
+          "count": 239236
+        },
+        {
+          "month": "2016-12",
+          "count": 240741
+        },
+        {
+          "month": "2017-01",
+          "count": 243003
+        },
+        {
+          "month": "2017-02",
+          "count": 245576
+        },
+        {
+          "month": "2017-03",
+          "count": 247764
+        },
+        {
+          "month": "2017-04",
+          "count": 250263
+        },
+        {
+          "month": "2017-05",
+          "count": 252506
+        },
+        {
+          "month": "2017-06",
+          "count": 254233
+        },
+        {
+          "month": "2017-07",
+          "count": 256082
+        },
+        {
+          "month": "2017-08",
+          "count": 258366
+        },
+        {
+          "month": "2017-09",
+          "count": 260543
+        },
+        {
+          "month": "2017-10",
+          "count": 263126
+        },
+        {
+          "month": "2017-11",
+          "count": 265350
+        },
+        {
+          "month": "2017-12",
+          "count": 266635
+        },
+        {
+          "month": "2018-01",
+          "count": 266635
+        },
+        {
+          "month": "2018-02",
+          "count": 266635
+        },
+        {
+          "month": "2018-03",
+          "count": 266635
+        },
+        {
+          "month": "2018-04",
+          "count": 266635
+        },
+        {
+          "month": "2018-05",
+          "count": 266635
+        },
+        {
+          "month": "2018-06",
+          "count": 266635
+        },
+        {
+          "month": "2018-07",
+          "count": 266635
+        },
+        {
+          "month": "2018-08",
+          "count": 266635
+        },
+        {
+          "month": "2018-09",
+          "count": 266635
+        },
+        {
+          "month": "2018-10",
+          "count": 266635
+        },
+        {
+          "month": "2018-11",
+          "count": 266635
+        },
+        {
+          "month": "2018-12",
+          "count": 266635
+        },
+        {
+          "month": "2019-01",
+          "count": 266635
+        },
+        {
+          "month": "2019-02",
+          "count": 266635
+        },
+        {
+          "month": "2019-03",
+          "count": 266635
+        },
+        {
+          "month": "2019-04",
+          "count": 266635
+        },
+        {
+          "month": "2019-05",
+          "count": 266635
+        },
+        {
+          "month": "2019-06",
+          "count": 266635
+        },
+        {
+          "month": "2019-07",
+          "count": 266635
+        },
+        {
+          "month": "2019-08",
+          "count": 266635
+        },
+        {
+          "month": "2019-09",
+          "count": 266635
+        },
+        {
+          "month": "2019-10",
+          "count": 266635
+        }
+      ]
+    }
+  }
+}
