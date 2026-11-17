@@ -1,0 +1,19 @@
+# Local downloads, checkpoint databases, and account-level data
+**/account_collection/
+**/runs/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.jsonl
+eterna_all_users_raw*.csv
+**/users_partial.csv
+**/original_archive.zip
+
+# Python and operating-system files
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
