@@ -9,6 +9,7 @@
 eterna_all_users_raw*.csv
 **/users_partial.csv
 **/original_archive.zip
+active_participation/local_data/
 
 # Python and operating-system files
 __pycache__/
