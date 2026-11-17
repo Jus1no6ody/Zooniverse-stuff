@@ -1,0 +1,30 @@
+{
+  "paper_doi": "https://doi.org/10.1371/journal.pone.0293289",
+  "table": "Table 1",
+  "source_xml_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0293289&type=manuscript",
+  "source_xml_sha256": "8ed97630ef0006588145346015e348dfdb971a9d3da9dea27d9c2fdb46771bc8",
+  "source_license": "CC BY",
+  "reported_period": "30-day window ending in June 2021",
+  "exact_start_utc": null,
+  "exact_end_exclusive_utc": null,
+  "activity_definition": "At least one task in the reported window, as defined by the original study",
+  "warning": "Published snapshot, not a calendar-month or annual time series; exact bounds and cross-platform task definitions require clarification.",
+  "observations": [
+    {
+      "platform": "zooniverse",
+      "reported_active_accounts": 20748
+    },
+    {
+      "platform": "eyewire",
+      "reported_active_accounts": 714
+    },
+    {
+      "platform": "eterna",
+      "reported_active_accounts": 614
+    },
+    {
+      "platform": "foldit",
+      "reported_active_accounts": 465
+    }
+  ]
+}

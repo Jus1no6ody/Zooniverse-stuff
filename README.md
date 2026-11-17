@@ -6,6 +6,24 @@ Sub thesis
 Collectors, checks, and source notes for Eterna, Zooniverse, EyeWire, and Foldit.
 The existing `live_zooniverse_slide.html` is retained.
 
+### Primary outcome: active participation
+
+The thesis now focuses on distinct accounts completing scientific tasks over
+time. Registration records and total classifications are supporting measures.
+See [the research protocol](active_participation/research_protocol.md) for the
+definitions, a verified published 2021 reference point, current data gaps, and
+the acquisition specification. No new platform-wide active-user series has yet
+been collected. A draft data request is prepared but has not been sent.
+
+The [event analysis tool](active_participation/analyze_activity.py) counts
+monthly and annual distinct contributing accounts from supplied task records.
+It keeps incomplete periods unavailable and handles anonymous events separately.
+See [input instructions](active_participation/input_format.md).
+
+```sh
+python3 -m unittest discover -s active_participation -p 'test_*.py'
+```
+
 ### Run the Zooniverse account collector
 
 Requires Python 3.10 or later. It uses only the standard library.
