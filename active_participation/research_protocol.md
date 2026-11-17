@@ -2,6 +2,11 @@
 
 ## Research question
 
+This is the engagement component of the broader thesis on **game-inspired
+features, engagement, learning, and data utility**. See the [study design](../research_framework/study_design.md)
+and [evidence inventory](../research_framework/feature_evidence_inventory.md).
+Active-account counts alone do not estimate the impact of a feature.
+
 How has the number of active contributing accounts changed over time in
 Zooniverse, Eterna, EyeWire, and Foldit?
 

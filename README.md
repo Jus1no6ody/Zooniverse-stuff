@@ -10,10 +10,20 @@ The existing `live_zooniverse_slide.html` is retained.
 
 **[Open the results tables](RESULTS.md)** for the published active-account reference point, yearly Zooniverse classifications, and historical signup counts. The page labels each measure and its coverage limits. New monthly active-participation results still require activity exports.
 
-### Primary outcome: active participation
+### Study focus: game-inspired features and their impact
 
-The thesis now focuses on distinct accounts completing scientific tasks over
-time. Registration records and total classifications are supporting measures.
+The thesis examines **how game-inspired features affect engagement, learning,
+and data utility in citizen science**. Active participation is one engagement
+measure; registration records and task totals provide supporting context.
+
+Start with the [feature-and-evidence inventory](research_framework/feature_evidence_inventory.md)
+and [study design](research_framework/study_design.md). The initial sources distinguish
+feature documentation, observed outcomes, and evidence that can support an impact
+claim. Some papers have only abstract-level assessment; this is a curated starting
+set, not a completed systematic review. A [feature-focused data request](research_framework/data_request_unsent.md)
+is prepared but has not been sent.
+
+### Engagement component: active participation
 See [the research protocol](active_participation/research_protocol.md) for the
 definitions, a verified published 2021 reference point, current data gaps, and
 the acquisition specification. No new platform-wide active-user series has yet

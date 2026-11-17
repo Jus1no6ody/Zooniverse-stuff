@@ -2,7 +2,7 @@
 
 Data inventory and descriptive results, 17 November 2026.
 
-**The thesis focuses on active participation. We have one published active-account reference point, but no newly collected monthly active-user time series for the four platforms.** Registration series and classification totals below are supporting evidence and measure different things.
+**The thesis examines the impact of game-inspired features on engagement, learning, and data utility.** The tables below provide participation context, not estimates of feature impact. We have one published active-account reference point and no newly collected four-platform monthly active-user series. Start with the [feature-and-evidence inventory](research_framework/feature_evidence_inventory.md) for the broader research question.
 
 ## Active participation: published 2021 reference point
 
