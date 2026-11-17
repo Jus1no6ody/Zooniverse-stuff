@@ -6,6 +6,10 @@ Sub thesis
 Collectors, checks, and source notes for Eterna, Zooniverse, EyeWire, and Foldit.
 The existing `live_zooniverse_slide.html` is retained.
 
+### View the results
+
+**[Open the results tables](RESULTS.md)** for the published active-account reference point, yearly Zooniverse classifications, and historical signup counts. The page labels each measure and its coverage limits. New monthly active-participation results still require activity exports.
+
 ### Primary outcome: active participation
 
 The thesis now focuses on distinct accounts completing scientific tasks over
