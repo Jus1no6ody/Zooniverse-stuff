@@ -6,6 +6,12 @@ This is a curated starting set, checked 17 November 2026, not a systematic revie
 or a completed comparison of current interfaces. Source dates and project scope
 matter. A documented feature is not evidence that the feature caused an outcome.
 
+The [added literature register](literature_register.md) contains 15 further papers,
+including background reviews and the project-specific studies below. IDs U01–U15
+resolve there; original user notes and bibliographic corrections are retained in
+[literature_register.json](literature_register.json). Abstract-level entries still
+require detailed full-text extraction before estimating effects.
+
 ## Feature and outcome evidence
 
 | Platform / scope | Feature or mechanism documented | Outcome evidence reviewed | Design and permissible interpretation | Sources |
@@ -17,6 +23,11 @@ matter. A documented feature is not evidence that the feature caused an outcome.
 | Zooniverse, selected astronomy projects | Participation and opportunities to learn; no isolated game-feature intervention in this study | More engaged participants performed better on project-specific science quizzes after accounting for general science knowledge | Observational econometric analysis. Learning association, not evidence that points, badges, or a particular feature produced it | [Z1] |
 | Zooniverse, configurable workflows | Correctness feedback on training subjects | Capability to deliver feedback is documented | Official implementation documentation. Project-specific exposure must be verified; an intended learning benefit is not a measured effect | [Z2] |
 | Zooniverse, optional leveling framework | Gold-standard skill assessment and progression to harder workflows | Skill-based routing and progression are documented | Official implementation documentation, not an outcome evaluation. Does not mean every Zooniverse project uses levels | [Z3] |
+
+| Zooniverse, Old Weather | Competitive ranks and captain status | Survey/interview accounts describe differing responses to rank competition | Project-specific qualitative evidence; motivating for some participants, ignored or discouraging for others. Does not establish a platform-wide causal effect | [U02](literature_register.md#u02-eveleigh-et-al-2013) |
+| Foldit, participant motivations | Scientific challenge and social interaction in a game | Study of 37 players identifies reasons for participation | Survey, interviews and participant observation; does not isolate the effect of a feature redesign. Abstract checked | [U07](literature_register.md#u07-curtis-2015) |
+| Foldit, tutorial design | Six interface/mechanical changes informed by cognitive load and self-determination theories | Abstract reports level-selection effects on progression and an expertise/engagement relationship | Intervention-specific extraction of allocation, sample, outcomes and uncertainty pending. Do not infer uniform improvements in learning or utility | [U09](literature_register.md#u09-miller-et-al-2019) |
+| Foldit, narrative tutorial | Story surrounding tutorial puzzles | Abstract reports more time in tutorial and science puzzles without substantial change in tutorial progress | Narrative comparison; allocation and estimates pending. Time spent alone does not demonstrate learning or useful scientific output | [U11](literature_register.md#u11-miller-et-al-2023) |
 
 Mechanisms such as feedback, collaboration, and scaffolding are not inherently
 game mechanics. Record their specific implementation and explain why they are

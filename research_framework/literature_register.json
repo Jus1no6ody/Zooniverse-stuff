@@ -1,0 +1,1871 @@
+{
+  "description": "Fifteen user-supplied references, with original notes preserved separately from bibliographic normalization and preliminary evidence screening.",
+  "citation_year_policy": "Prefer print/issue year when supplied by Crossref, otherwise published/issued year; retain online dates.",
+  "full_text_extraction_complete": false,
+  "records": [
+    {
+      "id": "U01",
+      "supplied": {
+        "authors": "Bonney et al",
+        "year": 2014,
+        "title": "Next Steps for Citizen Science",
+        "link": "DOI: 10.1126/science.1251554",
+        "summary": ""
+      },
+      "queried_doi": "10.1126/science.1251554",
+      "metadata": {
+        "doi": "10.1126/science.1251554",
+        "title": "Next Steps for Citizen Science",
+        "authors": [
+          {
+            "given": "Rick",
+            "family": "Bonney"
+          },
+          {
+            "given": "Jennifer L.",
+            "family": "Shirk"
+          },
+          {
+            "given": "Tina B.",
+            "family": "Phillips"
+          },
+          {
+            "given": "Andrea",
+            "family": "Wiggins"
+          },
+          {
+            "given": "Heidi L.",
+            "family": "Ballard"
+          },
+          {
+            "given": "Abraham J.",
+            "family": "Miller-Rushing"
+          },
+          {
+            "given": "Julia K.",
+            "family": "Parrish"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2014,
+            3,
+            28
+          ],
+          "published-print": [
+            2014,
+            3,
+            28
+          ],
+          "issued": [
+            2014,
+            3,
+            28
+          ]
+        },
+        "venue": [
+          "Science"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1126%2Fscience.1251554"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Rick",
+            "family": "Bonney"
+          },
+          {
+            "given": "Jennifer L.",
+            "family": "Shirk"
+          },
+          {
+            "given": "Tina B.",
+            "family": "Phillips"
+          },
+          {
+            "given": "Andrea",
+            "family": "Wiggins"
+          },
+          {
+            "given": "Heidi L.",
+            "family": "Ballard"
+          },
+          {
+            "given": "Abraham J.",
+            "family": "Miller-Rushing"
+          },
+          {
+            "given": "Julia K.",
+            "family": "Parrish"
+          }
+        ],
+        "year": 2014,
+        "title": "Next Steps for Citizen Science",
+        "venue": [
+          "Science"
+        ],
+        "doi": "10.1126/science.1251554",
+        "url": "https://doi.org/10.1126/science.1251554",
+        "publication_dates": {
+          "published": [
+            2014,
+            3,
+            28
+          ],
+          "published-print": [
+            2014,
+            3,
+            28
+          ],
+          "issued": [
+            2014,
+            3,
+            28
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Background; all three outcomes",
+        "design_or_role": "General citizen-science agenda",
+        "working_summary": "Use as framing for citizen-science research, not as a game-feature impact estimate.",
+        "review_status": "Metadata checked; detailed evidence screening pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U02",
+      "supplied": {
+        "authors": "Eveleigh et al",
+        "year": 2013,
+        "title": "“I want to be a captain! I want to be a captain!”: gamification in the old weather citizen science project",
+        "link": "https://doi.org/10.1145/2583008.2583019",
+        "summary": "The study involved surveys and interviews with participants to assess their responses to competitive game elements, such as leaderboards and rankings. Findings revealed that while some volunteers found these features motivating, others were indifferent or felt discouraged, leading to reduced participation. The research also highlighted an opportunity to leverage gamification to enhance the project's narrative appeal."
+      },
+      "queried_doi": "10.1145/2583008.2583019",
+      "metadata": {
+        "doi": "10.1145/2583008.2583019",
+        "title": "“I want to be a captain! I want to be a captain!”",
+        "authors": [
+          {
+            "given": "Alexandra",
+            "family": "Eveleigh"
+          },
+          {
+            "given": "Charlene",
+            "family": "Jennett"
+          },
+          {
+            "given": "Stuart",
+            "family": "Lynn"
+          },
+          {
+            "given": "Anna L.",
+            "family": "Cox"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2013,
+            10,
+            2
+          ],
+          "published-print": [
+            2013,
+            10,
+            2
+          ],
+          "published-online": [
+            2013,
+            10,
+            2
+          ],
+          "issued": [
+            2013,
+            10,
+            2
+          ]
+        },
+        "venue": [
+          "Proceedings of the First International Conference on Gameful Design, Research, and Applications"
+        ],
+        "type": "proceedings-article",
+        "source_url": "https://api.crossref.org/works/10.1145%2F2583008.2583019"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Alexandra",
+            "family": "Eveleigh"
+          },
+          {
+            "given": "Charlene",
+            "family": "Jennett"
+          },
+          {
+            "given": "Stuart",
+            "family": "Lynn"
+          },
+          {
+            "given": "Anna L.",
+            "family": "Cox"
+          }
+        ],
+        "year": 2013,
+        "title": "“I want to be a captain! I want to be a captain!”: gamification in the old weather citizen science project",
+        "venue": [
+          "Proceedings of the First International Conference on Gameful Design, Research, and Applications"
+        ],
+        "doi": "10.1145/2583008.2583019",
+        "url": "https://doi.org/10.1145/2583008.2583019",
+        "publication_dates": {
+          "published": [
+            2013,
+            10,
+            2
+          ],
+          "published-print": [
+            2013,
+            10,
+            2
+          ],
+          "published-online": [
+            2013,
+            10,
+            2
+          ],
+          "issued": [
+            2013,
+            10,
+            2
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement; Old Weather (Zooniverse)",
+        "design_or_role": "Survey and interviews about competitive ranks",
+        "working_summary": "Ranks motivated some participants, while others ignored them or disengaged. Project-specific qualitative evidence does not establish a platform-wide causal effect.",
+        "review_status": "Primary abstract and author manuscript abstract checked; sample and detailed extraction pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U03",
+      "supplied": {
+        "authors": "Aristeidou et al",
+        "year": 2017,
+        "title": "Proﬁles of engagement in online communities of citizen science participation",
+        "link": "https://doi.org/10.1016/j.chb.2017.04.044",
+        "summary": "The study analyzes engagement metrics, participant roles, motivations, attitudes, satisfaction, and sense of community belonging. Data were collected from log files and questionnaires. The findings categorize members into distinct engagement profiles based on their behavior patterns, highlighting the need for tailored design approaches in citizen science platforms. This research offers insights into enhancing volunteer engagement and the effectiveness of online citizen science projects."
+      },
+      "queried_doi": "10.1016/j.chb.2017.04.044",
+      "metadata": {
+        "doi": "10.1016/j.chb.2017.04.044",
+        "title": "Profiles of engagement in online communities of citizen science participation",
+        "authors": [
+          {
+            "given": "Maria",
+            "family": "Aristeidou"
+          },
+          {
+            "given": "Eileen",
+            "family": "Scanlon"
+          },
+          {
+            "given": "Mike",
+            "family": "Sharples"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2017,
+            9
+          ],
+          "published-print": [
+            2017,
+            9
+          ],
+          "issued": [
+            2017,
+            9
+          ]
+        },
+        "venue": [
+          "Computers in Human Behavior"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1016%2Fj.chb.2017.04.044"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Maria",
+            "family": "Aristeidou"
+          },
+          {
+            "given": "Eileen",
+            "family": "Scanlon"
+          },
+          {
+            "given": "Mike",
+            "family": "Sharples"
+          }
+        ],
+        "year": 2017,
+        "title": "Profiles of engagement in online communities of citizen science participation",
+        "venue": [
+          "Computers in Human Behavior"
+        ],
+        "doi": "10.1016/j.chb.2017.04.044",
+        "url": "https://doi.org/10.1016/j.chb.2017.04.044",
+        "publication_dates": {
+          "published": [
+            2017,
+            9
+          ],
+          "published-print": [
+            2017,
+            9
+          ],
+          "issued": [
+            2017,
+            9
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement; online citizen science",
+        "design_or_role": "Engagement profiles",
+        "working_summary": "Potential framework for distinguishing patterns of participation. The supplied description of logs and questionnaires still needs independent methods extraction.",
+        "review_status": "Metadata checked; outcome and methods verification pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U04",
+      "supplied": {
+        "authors": "Newman et al",
+        "year": 2012,
+        "title": "The future of citizen science: emerging\ntechnologies and shifting paradigms",
+        "link": "doi:10.1890/110294",
+        "summary": "The authors discuss the integration of tools like mobile applications, wireless sensor networks, and online gaming to enhance data collection, management, and participant engagement. They also address potential challenges, such as sociocultural issues and the need for a more formalized citizen science infrastructure. The article emphasizes the importance of adapting to these changes to advance scientific research and public education."
+      },
+      "queried_doi": "10.1890/110294",
+      "metadata": {
+        "doi": "10.1890/110294",
+        "title": "The future of citizen science: emerging technologies and shifting paradigms",
+        "authors": [
+          {
+            "given": "Greg",
+            "family": "Newman"
+          },
+          {
+            "given": "Andrea",
+            "family": "Wiggins"
+          },
+          {
+            "given": "Alycia",
+            "family": "Crall"
+          },
+          {
+            "given": "Eric",
+            "family": "Graham"
+          },
+          {
+            "given": "Sarah",
+            "family": "Newman"
+          },
+          {
+            "given": "Kevin",
+            "family": "Crowston"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2012,
+            8
+          ],
+          "published-print": [
+            2012,
+            8
+          ],
+          "published-online": [
+            2012,
+            8
+          ],
+          "issued": [
+            2012,
+            8
+          ]
+        },
+        "venue": [
+          "Frontiers in Ecology and the Environment"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1890%2F110294"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Greg",
+            "family": "Newman"
+          },
+          {
+            "given": "Andrea",
+            "family": "Wiggins"
+          },
+          {
+            "given": "Alycia",
+            "family": "Crall"
+          },
+          {
+            "given": "Eric",
+            "family": "Graham"
+          },
+          {
+            "given": "Sarah",
+            "family": "Newman"
+          },
+          {
+            "given": "Kevin",
+            "family": "Crowston"
+          }
+        ],
+        "year": 2012,
+        "title": "The future of citizen science: emerging technologies and shifting paradigms",
+        "venue": [
+          "Frontiers in Ecology and the Environment"
+        ],
+        "doi": "10.1890/110294",
+        "url": "https://doi.org/10.1890/110294",
+        "publication_dates": {
+          "published": [
+            2012,
+            8
+          ],
+          "published-print": [
+            2012,
+            8
+          ],
+          "published-online": [
+            2012,
+            8
+          ],
+          "issued": [
+            2012,
+            8
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Background; technology and participation",
+        "design_or_role": "Conceptual overview",
+        "working_summary": "Use to contextualize emerging technologies and citizen-science practices, not to estimate a game-feature effect.",
+        "review_status": "Metadata checked; detailed evidence screening pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U05",
+      "supplied": {
+        "authors": "See et al",
+        "year": 2016,
+        "title": "Crowdsourcing, Citizen Science or Volunteered\nGeographic Information? The Current State of\nCrowdsourced Geographic Information",
+        "link": "doi:10.3390/ijgi5050055",
+        "summary": "The study reviews various terms used to describe citizen-generated geographic data, such as crowdsourcing, citizen science, and volunteered geographic information (VGI), and explores their usage over time. The authors conducted a review of approximately 100 internet sites, focusing on thematic topics, data nature, and contributor incentives. Findings indicate that most platforms rely on active contributions from citizens, who are often motivated by altruistic reasons and typically receive minimal training. The study highlights the diverse nature of citizen-contributed geographic information, which can be active or passive, spatial or aspatial, and varies in format, description, and quality."
+      },
+      "queried_doi": "10.3390/ijgi5050055",
+      "metadata": {
+        "doi": "10.3390/ijgi5050055",
+        "title": "Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information",
+        "authors": [
+          {
+            "given": "Linda",
+            "family": "See"
+          },
+          {
+            "given": "Peter",
+            "family": "Mooney"
+          },
+          {
+            "given": "Giles",
+            "family": "Foody"
+          },
+          {
+            "given": "Lucy",
+            "family": "Bastin"
+          },
+          {
+            "given": "Alexis",
+            "family": "Comber"
+          },
+          {
+            "given": "Jacinto",
+            "family": "Estima"
+          },
+          {
+            "given": "Steffen",
+            "family": "Fritz"
+          },
+          {
+            "given": "Norman",
+            "family": "Kerle"
+          },
+          {
+            "given": "Bin",
+            "family": "Jiang"
+          },
+          {
+            "given": "Mari",
+            "family": "Laakso"
+          },
+          {
+            "given": "Hai-Ying",
+            "family": "Liu"
+          },
+          {
+            "given": "Grega",
+            "family": "Milčinski"
+          },
+          {
+            "given": "Matej",
+            "family": "Nikšič"
+          },
+          {
+            "given": "Marco",
+            "family": "Painho"
+          },
+          {
+            "given": "Andrea",
+            "family": "Pődör"
+          },
+          {
+            "given": "Ana-Maria",
+            "family": "Olteanu-Raimond"
+          },
+          {
+            "given": "Martin",
+            "family": "Rutzinger"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2016,
+            4,
+            27
+          ],
+          "published-online": [
+            2016,
+            4,
+            27
+          ],
+          "issued": [
+            2016,
+            4,
+            27
+          ]
+        },
+        "venue": [
+          "ISPRS International Journal of Geo-Information"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.3390%2Fijgi5050055"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Linda",
+            "family": "See"
+          },
+          {
+            "given": "Peter",
+            "family": "Mooney"
+          },
+          {
+            "given": "Giles",
+            "family": "Foody"
+          },
+          {
+            "given": "Lucy",
+            "family": "Bastin"
+          },
+          {
+            "given": "Alexis",
+            "family": "Comber"
+          },
+          {
+            "given": "Jacinto",
+            "family": "Estima"
+          },
+          {
+            "given": "Steffen",
+            "family": "Fritz"
+          },
+          {
+            "given": "Norman",
+            "family": "Kerle"
+          },
+          {
+            "given": "Bin",
+            "family": "Jiang"
+          },
+          {
+            "given": "Mari",
+            "family": "Laakso"
+          },
+          {
+            "given": "Hai-Ying",
+            "family": "Liu"
+          },
+          {
+            "given": "Grega",
+            "family": "Milčinski"
+          },
+          {
+            "given": "Matej",
+            "family": "Nikšič"
+          },
+          {
+            "given": "Marco",
+            "family": "Painho"
+          },
+          {
+            "given": "Andrea",
+            "family": "Pődör"
+          },
+          {
+            "given": "Ana-Maria",
+            "family": "Olteanu-Raimond"
+          },
+          {
+            "given": "Martin",
+            "family": "Rutzinger"
+          }
+        ],
+        "year": 2016,
+        "title": "Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information",
+        "venue": [
+          "ISPRS International Journal of Geo-Information"
+        ],
+        "doi": "10.3390/ijgi5050055",
+        "url": "https://doi.org/10.3390/ijgi5050055",
+        "publication_dates": {
+          "published": [
+            2016,
+            4,
+            27
+          ],
+          "published-online": [
+            2016,
+            4,
+            27
+          ],
+          "issued": [
+            2016,
+            4,
+            27
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Data utility; geographic citizen science",
+        "design_or_role": "Review and terminology",
+        "working_summary": "Useful context for crowdsourced geographic information and data-quality questions; applicability to the four platforms needs explicit justification.",
+        "review_status": "Metadata checked; detailed evidence screening pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U06",
+      "supplied": {
+        "authors": "Bonney et al",
+        "year": 2016,
+        "title": "Can citizen science enhance public\nunderstanding of science?",
+        "link": "DOI: 10.1177/0963662515607406",
+        "summary": "The authors categorize citizen science projects into four types based on participant activities: Data Collection, Data Processing, Curriculum-based, and Community Science. They find strong evidence that such projects yield valuable scientific outcomes, especially in Data Collection and Data Processing. Additionally, there's limited but growing evidence that these projects enhance participants' understanding of scientific knowledge and processes, raise awareness of research diversity, and add meaning to personal hobbies. Some projects also positively influence social well-being by involving participants in local environmental decision-making. The authors suggest that projects aiming to improve public understanding of science should focus on thoughtful design, outcome measurement, engaging diverse audiences, and exploring new research directions."
+      },
+      "queried_doi": "10.1177/0963662515607406",
+      "metadata": {
+        "doi": "10.1177/0963662515607406",
+        "title": "Can citizen science enhance public understanding of science?",
+        "authors": [
+          {
+            "given": "Rick",
+            "family": "Bonney"
+          },
+          {
+            "given": "Tina B.",
+            "family": "Phillips"
+          },
+          {
+            "given": "Heidi L.",
+            "family": "Ballard"
+          },
+          {
+            "given": "Jody W.",
+            "family": "Enck"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2015,
+            10,
+            7
+          ],
+          "published-print": [
+            2016,
+            1
+          ],
+          "published-online": [
+            2015,
+            10,
+            7
+          ],
+          "issued": [
+            2015,
+            10,
+            7
+          ]
+        },
+        "venue": [
+          "Public Understanding of Science"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1177%2F0963662515607406"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Rick",
+            "family": "Bonney"
+          },
+          {
+            "given": "Tina B.",
+            "family": "Phillips"
+          },
+          {
+            "given": "Heidi L.",
+            "family": "Ballard"
+          },
+          {
+            "given": "Jody W.",
+            "family": "Enck"
+          }
+        ],
+        "year": 2016,
+        "title": "Can citizen science enhance public understanding of science?",
+        "venue": [
+          "Public Understanding of Science"
+        ],
+        "doi": "10.1177/0963662515607406",
+        "url": "https://doi.org/10.1177/0963662515607406",
+        "publication_dates": {
+          "published": [
+            2015,
+            10,
+            7
+          ],
+          "published-print": [
+            2016,
+            1
+          ],
+          "published-online": [
+            2015,
+            10,
+            7
+          ],
+          "issued": [
+            2015,
+            10,
+            7
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Learning; citizen science broadly",
+        "design_or_role": "Review",
+        "working_summary": "Relevant to public understanding of science. Extract the underlying study designs before making a learning-impact claim.",
+        "review_status": "Metadata checked; detailed evidence extraction pending.",
+        "corrections_and_cautions": [
+          "2015 online publication and 2016 print issue; use 2016 as the citation year and retain both dates."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U07",
+      "supplied": {
+        "authors": "Curtis et al",
+        "year": 2015,
+        "title": "Motivation to Participate in an Online Citizen Science Game: A Study of Foldit",
+        "link": "https://doi.org/10.1177/107554701560932",
+        "summary": "Through an online survey, semistructured interviews, and participant observations involving 37 players, the study identifies key motivational factors such as the desire to contribute to scientific research, enjoyment of problem-solving challenges, and the social aspects of the gaming community. The findings suggest that aligning game design elements with these motivations can enhance player engagement and the quality of scientific contributions."
+      },
+      "queried_doi": "10.1177/1075547015609322",
+      "metadata": {
+        "doi": "10.1177/1075547015609322",
+        "title": "Motivation to Participate in an Online Citizen Science Game",
+        "authors": [
+          {
+            "given": "Vickie",
+            "family": "Curtis"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2015,
+            10,
+            16
+          ],
+          "published-print": [
+            2015,
+            12
+          ],
+          "published-online": [
+            2015,
+            10,
+            16
+          ],
+          "issued": [
+            2015,
+            10,
+            16
+          ]
+        },
+        "venue": [
+          "Science Communication"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1177%2F1075547015609322"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Vickie",
+            "family": "Curtis"
+          }
+        ],
+        "year": 2015,
+        "title": "Motivation to Participate in an Online Citizen Science Game: A Study of Foldit",
+        "venue": [
+          "Science Communication"
+        ],
+        "doi": "10.1177/1075547015609322",
+        "url": "https://doi.org/10.1177/1075547015609322",
+        "publication_dates": {
+          "published": [
+            2015,
+            10,
+            16
+          ],
+          "published-print": [
+            2015,
+            12
+          ],
+          "published-online": [
+            2015,
+            10,
+            16
+          ],
+          "issued": [
+            2015,
+            10,
+            16
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement; Foldit",
+        "design_or_role": "Survey, interviews and participant observation",
+        "working_summary": "Study of 37 players identifies scientific contribution, interest, social interaction and intellectual challenge as motivations. It does not test whether redesign causes better retention or data quality.",
+        "review_status": "Primary abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "Correct DOI is 10.1177/1075547015609322; supplied DOI omitted the final 2.",
+          "Single author Vickie Curtis, rather than Curtis et al."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U08",
+      "supplied": {
+        "authors": "Curtis et al",
+        "year": 2014,
+        "title": "Online citizen science games: Opportunities for the biological sciences",
+        "link": "https://doi.org/10.1016/j.atg.2014.07.001",
+        "summary": "Examines the expanding role of citizen science in research and offers recommendations to enhance its impact. Citizen science involves public participation in scientific research, enabling large-scale data collection across various fields, from microbiomes to galaxies. The authors note that, despite its growth, citizen science faces challenges in gaining universal acceptance as a valid research method. To address this, they suggest strategic investments and coordination to fully realize its potential."
+      },
+      "queried_doi": "10.1016/j.atg.2014.07.001",
+      "metadata": {
+        "doi": "10.1016/j.atg.2014.07.001",
+        "title": "Online citizen science games: Opportunities for the biological sciences",
+        "authors": [
+          {
+            "given": "Vickie",
+            "family": "Curtis"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2014,
+            12
+          ],
+          "published-print": [
+            2014,
+            12
+          ],
+          "issued": [
+            2014,
+            12
+          ]
+        },
+        "venue": [
+          "Applied &amp; Translational Genomics"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1016%2Fj.atg.2014.07.001"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Vickie",
+            "family": "Curtis"
+          }
+        ],
+        "year": 2014,
+        "title": "Online citizen science games: Opportunities for the biological sciences",
+        "venue": [
+          "Applied &amp; Translational Genomics"
+        ],
+        "doi": "10.1016/j.atg.2014.07.001",
+        "url": "https://doi.org/10.1016/j.atg.2014.07.001",
+        "publication_dates": {
+          "published": [
+            2014,
+            12
+          ],
+          "published-print": [
+            2014,
+            12
+          ],
+          "issued": [
+            2014,
+            12
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Background; biological citizen-science games",
+        "design_or_role": "Review",
+        "working_summary": "Discusses biological citizen-science games including Foldit, Phylo and Eterna, with research and informal-learning opportunities. Potential benefits are not measured treatment effects.",
+        "review_status": "Primary abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "Single author Vickie Curtis, rather than Curtis et al.",
+          "Supplied summary appears mismatched to this games review; retain as an unverified user note."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U09",
+      "supplied": {
+        "authors": "Miller et al",
+        "year": 2019,
+        "title": "Expertise and engagement: re-designing citizen science games with players' minds in mind",
+        "link": "https://doi.org/10.1145/3337722.3337735",
+        "summary": "Explores how applying learning and motivation frameworks can enhance player experience in citizen science games, specifically focusing on Foldit. Foldit is a game where players contribute to scientific research by solving protein-folding puzzles. The authors aimed to improve player engagement and the quality of scientific contributions by redesigning game elements to better align with players' cognitive processes and motivational drivers. Through their redesign, the study found that incorporating educational and motivational strategies led to increased player engagement and improved problem-solving performance. This suggests that thoughtfully designed game mechanics can enhance both the user experience and the scientific value of citizen science games. ​\n\nThe findings underscore the importance of considering cognitive and motivational factors in the design of citizen science games to foster sustained participation and maximize the quality of data collected for scientific research."
+      },
+      "queried_doi": "10.1145/3337722.3337735",
+      "metadata": {
+        "doi": "10.1145/3337722.3337735",
+        "title": "Expertise and engagement",
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Uttkarsh",
+            "family": "Narayan"
+          },
+          {
+            "given": "Matthew",
+            "family": "Hantsbarger"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Magy Seif",
+            "family": "El-Nasr"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2019,
+            8,
+            26
+          ],
+          "published-print": [
+            2019,
+            8,
+            26
+          ],
+          "published-online": [
+            2019,
+            8,
+            26
+          ],
+          "issued": [
+            2019,
+            8,
+            26
+          ]
+        },
+        "venue": [
+          "Proceedings of the 14th International Conference on the Foundations of Digital Games"
+        ],
+        "type": "proceedings-article",
+        "source_url": "https://api.crossref.org/works/10.1145%2F3337722.3337735"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Uttkarsh",
+            "family": "Narayan"
+          },
+          {
+            "given": "Matthew",
+            "family": "Hantsbarger"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Magy Seif",
+            "family": "El-Nasr"
+          }
+        ],
+        "year": 2019,
+        "title": "Expertise and engagement: re-designing citizen science games with players' minds in mind",
+        "venue": [
+          "Proceedings of the 14th International Conference on the Foundations of Digital Games"
+        ],
+        "doi": "10.1145/3337722.3337735",
+        "url": "https://doi.org/10.1145/3337722.3337735",
+        "publication_dates": {
+          "published": [
+            2019,
+            8,
+            26
+          ],
+          "published-print": [
+            2019,
+            8,
+            26
+          ],
+          "published-online": [
+            2019,
+            8,
+            26
+          ],
+          "issued": [
+            2019,
+            8,
+            26
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement and progression; Foldit",
+        "design_or_role": "Tutorial interface and mechanics comparisons",
+        "working_summary": "Examines six tutorial changes informed by cognitive load and self-determination theories. Abstract reports a level-selection interface effect on progression and a relationship between expertise and engagement; do not infer that every change improved all outcomes.",
+        "review_status": "Primary author abstract checked; allocation, sample, estimates and uncertainty pending.",
+        "corrections_and_cautions": [
+          "Supplied summary overgeneralizes benefits; extract results separately for each intervention and outcome."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U10",
+      "supplied": {
+        "authors": "Cooper et al",
+        "year": 2020,
+        "title": "Repurposing citizen science games as software tools for professional scientists",
+        "link": "https://doi.org/10.1145/3235765.3235770",
+        "summary": "The study highlights that software developed for citizen science, with its emphasis on usability and engagement, can be effectively repurposed to meet the needs of professional researchers. The authors identify key design principles that facilitate this transition, suggesting that the intuitive interfaces and engaging elements of these games can enhance the usability of scientific tools."
+      },
+      "queried_doi": "10.1145/3235765.3235770",
+      "metadata": {
+        "doi": "10.1145/3235765.3235770",
+        "title": "Repurposing citizen science games as software tools for professional scientists",
+        "authors": [
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Amy L. R.",
+            "family": "Sterling"
+          },
+          {
+            "given": "Robert",
+            "family": "Kleffner"
+          },
+          {
+            "given": "William M.",
+            "family": "Silversmith"
+          },
+          {
+            "given": "Justin B.",
+            "family": "Siegel"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2018,
+            8,
+            7
+          ],
+          "published-print": [
+            2018,
+            8,
+            7
+          ],
+          "published-online": [
+            2018,
+            8,
+            7
+          ],
+          "issued": [
+            2018,
+            8,
+            7
+          ]
+        },
+        "venue": [
+          "Proceedings of the 13th International Conference on the Foundations of Digital Games"
+        ],
+        "type": "proceedings-article",
+        "source_url": "https://api.crossref.org/works/10.1145%2F3235765.3235770"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Amy L. R.",
+            "family": "Sterling"
+          },
+          {
+            "given": "Robert",
+            "family": "Kleffner"
+          },
+          {
+            "given": "William M.",
+            "family": "Silversmith"
+          },
+          {
+            "given": "Justin B.",
+            "family": "Siegel"
+          }
+        ],
+        "year": 2018,
+        "title": "Repurposing citizen science games as software tools for professional scientists",
+        "venue": [
+          "Proceedings of the 13th International Conference on the Foundations of Digital Games"
+        ],
+        "doi": "10.1145/3235765.3235770",
+        "url": "https://doi.org/10.1145/3235765.3235770",
+        "publication_dates": {
+          "published": [
+            2018,
+            8,
+            7
+          ],
+          "published-print": [
+            2018,
+            8,
+            7
+          ],
+          "published-online": [
+            2018,
+            8,
+            7
+          ],
+          "issued": [
+            2018,
+            8,
+            7
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Software utility; Foldit and EyeWire",
+        "design_or_role": "Professional-tool repurposing case studies",
+        "working_summary": "FolditStandalone and EyeWire illustrate reuse as professional tools. Software usefulness must be distinguished from validated improvements in citizen-generated data quality.",
+        "review_status": "Primary abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "Publication year is 2018, rather than supplied 2020.",
+          "Professional software utility does not by itself demonstrate improved citizen-science data quality."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U11",
+      "supplied": {
+        "authors": "Miller et al",
+        "year": 2023,
+        "title": "Wrapped in Story: The Affordances of Narrative for Citizen Science Games",
+        "link": "https://doi.org/10.1145/3582437.3582443",
+        "summary": "The study found that embedding a story within the game's tutorial and scientific puzzles increased player engagement, as evidenced by longer interaction times. However, the narrative did not significantly affect players' progress through the tutorial. The research provides empirical evidence on how storytelling can enhance user experience in citizen science games and offers recommendations for effectively integrating narrative elements to boost engagement."
+      },
+      "queried_doi": "10.1145/3582437.3582443",
+      "metadata": {
+        "doi": "10.1145/3582437.3582443",
+        "title": "Wrapped in Story: The Affordances of Narrative for Citizen Science Games",
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Katherine",
+            "family": "Buse"
+          },
+          {
+            "given": "Ranjodh Singh",
+            "family": "Dhaliwal"
+          },
+          {
+            "given": "Justin",
+            "family": "Siegel"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Colin",
+            "family": "Milburn"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2023,
+            4,
+            12
+          ],
+          "published-print": [
+            2023,
+            4,
+            12
+          ],
+          "published-online": [
+            2023,
+            4,
+            12
+          ],
+          "issued": [
+            2023,
+            4,
+            12
+          ]
+        },
+        "venue": [
+          "Proceedings of the 18th International Conference on the Foundations of Digital Games"
+        ],
+        "type": "proceedings-article",
+        "source_url": "https://api.crossref.org/works/10.1145%2F3582437.3582443"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Katherine",
+            "family": "Buse"
+          },
+          {
+            "given": "Ranjodh Singh",
+            "family": "Dhaliwal"
+          },
+          {
+            "given": "Justin",
+            "family": "Siegel"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          },
+          {
+            "given": "Colin",
+            "family": "Milburn"
+          }
+        ],
+        "year": 2023,
+        "title": "Wrapped in Story: The Affordances of Narrative for Citizen Science Games",
+        "venue": [
+          "Proceedings of the 18th International Conference on the Foundations of Digital Games"
+        ],
+        "doi": "10.1145/3582437.3582443",
+        "url": "https://doi.org/10.1145/3582437.3582443",
+        "publication_dates": {
+          "published": [
+            2023,
+            4,
+            12
+          ],
+          "published-print": [
+            2023,
+            4,
+            12
+          ],
+          "published-online": [
+            2023,
+            4,
+            12
+          ],
+          "issued": [
+            2023,
+            4,
+            12
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement; Foldit narrative",
+        "design_or_role": "Narrative tutorial comparison",
+        "working_summary": "Abstract reports more time in tutorial and science puzzles, without a substantial change in tutorial progress. Time spent is not by itself demonstrated learning or data utility.",
+        "review_status": "Primary abstract checked; allocation, sample and effect estimates pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U12",
+      "supplied": {
+        "authors": "Miller et al",
+        "year": 2023,
+        "title": "A Survey of Citizen Science Gaming Experiences",
+        "link": "https://doi.org/10.5334/cstp.500",
+        "summary": "Through an online survey of 185 participants across nine different CSGs, the study identifies several areas where these games often fall short in providing motivating play experiences."
+      },
+      "queried_doi": "10.5334/cstp.500",
+      "metadata": {
+        "doi": "10.5334/cstp.500",
+        "title": "A Survey of Citizen Science Gaming Experiences",
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Kutub",
+            "family": "Gandhi"
+          },
+          {
+            "given": "Anna",
+            "family": "Gander"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2022,
+            10,
+            25
+          ],
+          "published-online": [
+            2022,
+            10,
+            25
+          ],
+          "issued": [
+            2022,
+            10,
+            25
+          ]
+        },
+        "venue": [
+          "Citizen Science: Theory and Practice"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.5334%2Fcstp.500"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Kutub",
+            "family": "Gandhi"
+          },
+          {
+            "given": "Anna",
+            "family": "Gander"
+          },
+          {
+            "given": "Seth",
+            "family": "Cooper"
+          }
+        ],
+        "year": 2022,
+        "title": "A Survey of Citizen Science Gaming Experiences",
+        "venue": [
+          "Citizen Science: Theory and Practice"
+        ],
+        "doi": "10.5334/cstp.500",
+        "url": "https://doi.org/10.5334/cstp.500",
+        "publication_dates": {
+          "published": [
+            2022,
+            10,
+            25
+          ],
+          "published-online": [
+            2022,
+            10,
+            25
+          ],
+          "issued": [
+            2022,
+            10,
+            25
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Engagement and design; multiple citizen-science games",
+        "design_or_role": "Player survey and qualitative content analysis",
+        "working_summary": "Survey of 185 players across nine games identifies experiences with scientific communication, instruction, controls, tasks and software. It describes player reports rather than isolating feature effects.",
+        "review_status": "Primary article/manuscript abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "Publication year is 2022, rather than supplied 2023."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U13",
+      "supplied": {
+        "authors": "Milburn et al",
+        "year": 2023,
+        "title": "Join the Fold: Video Games, Science Fiction, and the Refolding of Citizen Science",
+        "link": "https://doi.org/10.1162/desi_a_00707",
+        "summary": "Explores the integration of science fiction narratives within citizen science games, particularly focusing on the protein-folding game Foldit. The authors discuss how incorporating science fiction elements can enrich the citizen science experience by providing a broader context that encourages critical reflection on the ethical and societal implications of scientific practices."
+      },
+      "queried_doi": "10.1162/desi_a_00707",
+      "metadata": {
+        "doi": "10.1162/desi_a_00707",
+        "title": "Join the Fold: Video Games, Science Fiction, and the Refolding of Citizen Science",
+        "authors": [
+          {
+            "given": "Colin",
+            "family": "Milburn"
+          },
+          {
+            "given": "Katherine",
+            "family": "Buse"
+          },
+          {
+            "given": "Ranjodh Singh",
+            "family": "Dhaliwal"
+          },
+          {
+            "given": "Melissa",
+            "family": "Wills"
+          },
+          {
+            "given": "Raida",
+            "family": "Aldosari"
+          },
+          {
+            "given": "Patrick",
+            "family": "Camarador"
+          },
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Justin",
+            "family": "Siegel"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2023,
+            1,
+            1
+          ],
+          "published-print": [
+            2023,
+            1,
+            1
+          ],
+          "published-online": [
+            2023,
+            1,
+            1
+          ],
+          "issued": [
+            2023,
+            1,
+            1
+          ]
+        },
+        "venue": [
+          "Design Issues"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1162%2Fdesi_a_00707"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Colin",
+            "family": "Milburn"
+          },
+          {
+            "given": "Katherine",
+            "family": "Buse"
+          },
+          {
+            "given": "Ranjodh Singh",
+            "family": "Dhaliwal"
+          },
+          {
+            "given": "Melissa",
+            "family": "Wills"
+          },
+          {
+            "given": "Raida",
+            "family": "Aldosari"
+          },
+          {
+            "given": "Patrick",
+            "family": "Camarador"
+          },
+          {
+            "given": "Josh Aaron",
+            "family": "Miller"
+          },
+          {
+            "given": "Justin",
+            "family": "Siegel"
+          }
+        ],
+        "year": 2023,
+        "title": "Join the Fold: Video Games, Science Fiction, and the Refolding of Citizen Science",
+        "venue": [
+          "Design Issues"
+        ],
+        "doi": "10.1162/desi_a_00707",
+        "url": "https://doi.org/10.1162/desi_a_00707",
+        "publication_dates": {
+          "published": [
+            2023,
+            1,
+            1
+          ],
+          "published-print": [
+            2023,
+            1,
+            1
+          ],
+          "published-online": [
+            2023,
+            1,
+            1
+          ],
+          "issued": [
+            2023,
+            1,
+            1
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Background; narrative and citizen-science games",
+        "design_or_role": "Narrative and cultural design perspective",
+        "working_summary": "Use for the conceptual role of narrative and science fiction. Keep distinct from the Foldit narrative outcome study U11.",
+        "review_status": "Metadata checked; detailed evidence screening pending.",
+        "corrections_and_cautions": []
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U14",
+      "supplied": {
+        "authors": "Speelman et al",
+        "year": 2023,
+        "title": "Serious games and citizen science; from parallel pathways to greater synergies",
+        "link": "https://doi.org/10.1016/j.cosust.2023.101320",
+        "summary": "This paper talks about the synergies between the game development as well as citizen science development. It talks about the interest curves - how there is enthusiasm in the start and when the cost effectiveness is realized, it declines overtime and the game becomes less interesting."
+      },
+      "queried_doi": "10.1016/j.cosust.2023.101320",
+      "metadata": {
+        "doi": "10.1016/j.cosust.2023.101320",
+        "title": "Serious games and citizen science; from parallel pathways to greater synergies",
+        "authors": [
+          {
+            "given": "Erika N",
+            "family": "Speelman"
+          },
+          {
+            "given": "Elena",
+            "family": "Escano"
+          },
+          {
+            "given": "Diego",
+            "family": "Marcos"
+          },
+          {
+            "given": "Nicolas",
+            "family": "Becu"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2023,
+            10
+          ],
+          "published-print": [
+            2023,
+            10
+          ],
+          "issued": [
+            2023,
+            10
+          ]
+        },
+        "venue": [
+          "Current Opinion in Environmental Sustainability"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1016%2Fj.cosust.2023.101320"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Erika N",
+            "family": "Speelman"
+          },
+          {
+            "given": "Elena",
+            "family": "Escano"
+          },
+          {
+            "given": "Diego",
+            "family": "Marcos"
+          },
+          {
+            "given": "Nicolas",
+            "family": "Becu"
+          }
+        ],
+        "year": 2023,
+        "title": "Serious games and citizen science; from parallel pathways to greater synergies",
+        "venue": [
+          "Current Opinion in Environmental Sustainability"
+        ],
+        "doi": "10.1016/j.cosust.2023.101320",
+        "url": "https://doi.org/10.1016/j.cosust.2023.101320",
+        "publication_dates": {
+          "published": [
+            2023,
+            10
+          ],
+          "published-print": [
+            2023,
+            10
+          ],
+          "issued": [
+            2023,
+            10
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Background; serious games and citizen science",
+        "design_or_role": "Conceptual overview",
+        "working_summary": "Discusses synergies in participatory environmental management. The supplied claim about declining interest curves needs full-text support before use.",
+        "review_status": "Primary institutional abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "Do not use the supplied interest-curve claim without checking the full text."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    },
+    {
+      "id": "U15",
+      "supplied": {
+        "authors": "Pernat et al",
+        "year": 2020,
+        "title": "Citizen science versus professional data collection: Comparisonof approaches to mosquito monitoring in Germany",
+        "link": "DOI: 10.1111/1365-2664.13767",
+        "summary": "This paper explores the differences between two methods for the data collection on mosquitoes in Germany, namely professional data collection and citizen science. Significant differences in species composition were found between data collected through the two methods."
+      },
+      "queried_doi": "10.1111/1365-2664.13767",
+      "metadata": {
+        "doi": "10.1111/1365-2664.13767",
+        "title": "Citizen science versus professional data collection: Comparison of approaches to mosquito monitoring in Germany",
+        "authors": [
+          {
+            "given": "Nadja",
+            "family": "Pernat"
+          },
+          {
+            "given": "Helge",
+            "family": "Kampen"
+          },
+          {
+            "given": "Jonathan M.",
+            "family": "Jeschke"
+          },
+          {
+            "given": "Doreen",
+            "family": "Werner"
+          }
+        ],
+        "date_fields": {
+          "published": [
+            2020,
+            10,
+            6
+          ],
+          "published-print": [
+            2021,
+            2
+          ],
+          "published-online": [
+            2020,
+            10,
+            6
+          ],
+          "issued": [
+            2020,
+            10,
+            6
+          ]
+        },
+        "venue": [
+          "Journal of Applied Ecology"
+        ],
+        "type": "journal-article",
+        "source_url": "https://api.crossref.org/works/10.1111%2F1365-2664.13767"
+      },
+      "metadata_status": "DOI registry metadata retrieved; full-text evidence review remains separate",
+      "normalized_citation": {
+        "authors": [
+          {
+            "given": "Nadja",
+            "family": "Pernat"
+          },
+          {
+            "given": "Helge",
+            "family": "Kampen"
+          },
+          {
+            "given": "Jonathan M.",
+            "family": "Jeschke"
+          },
+          {
+            "given": "Doreen",
+            "family": "Werner"
+          }
+        ],
+        "year": 2021,
+        "title": "Citizen science versus professional data collection: Comparison of approaches to mosquito monitoring in Germany",
+        "venue": [
+          "Journal of Applied Ecology"
+        ],
+        "doi": "10.1111/1365-2664.13767",
+        "url": "https://doi.org/10.1111/1365-2664.13767",
+        "publication_dates": {
+          "published": [
+            2020,
+            10,
+            6
+          ],
+          "published-print": [
+            2021,
+            2
+          ],
+          "published-online": [
+            2020,
+            10,
+            6
+          ],
+          "issued": [
+            2020,
+            10,
+            6
+          ]
+        }
+      },
+      "screening": {
+        "relevance": "Data utility; mosquito monitoring outside core platforms",
+        "design_or_role": "Citizen versus professional collection comparison",
+        "working_summary": "Citizen reports and professional trapping provide complementary information with different sampling biases. This is a data-fitness example, not a gamification intervention.",
+        "review_status": "Primary abstract checked; full-text extraction pending.",
+        "corrections_and_cautions": [
+          "2020 online publication and 2021 print issue; use 2021 as the citation year and retain both dates."
+        ]
+      },
+      "supplied_note_status": "Original user-provided note; not independently verified. Use the screening summary and review status when citing.",
+      "checked_on": "2026-11-17"
+    }
+  ]
+}
