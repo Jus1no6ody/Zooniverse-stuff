@@ -23,6 +23,13 @@ claim. Some papers have only abstract-level assessment; this is a curated starti
 set, not a completed systematic review. A [feature-focused data request](research_framework/data_request_unsent.md)
 is prepared but has not been sent.
 
+### Added literature
+
+The [15-paper literature register](research_framework/literature_register.md) adds
+the supplied readings, DOI and date corrections, outcome relevance, and review
+limits. [Original notes and normalized citations](research_framework/literature_register.json)
+are preserved separately. Full-text evidence extraction remains in progress.
+
 ### Engagement component: active participation
 See [the research protocol](active_participation/research_protocol.md) for the
 definitions, a verified published 2021 reference point, current data gaps, and
